@@ -12,9 +12,7 @@ desafios: obstáculos
 recompensas: coletáveis(moscas) e troféis(cachaças) 
 endgame:  chegar no fim da fase 
 abstração do endgame: chegar no bar e comprar as cachaças
-
-tipo de experiencia: se divertir com a sabotagem empurrando o adversário nos obstáculos
-(o maior esforço tem que ser nessa parte!!)
+tipo de experiencia: se divertir com a sabotagem empurrando o adversário nos obstáculos (o maior esforço tem que ser nessa parte!!)
 golden nuggets: Corrida com sabotagem entre jogadores
 referências: speedrunners e badlands (sidescroll, movimentação e desafios de plataforma)
 
